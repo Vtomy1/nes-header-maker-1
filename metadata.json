@@ -1,0 +1,6 @@
+{
+  "name": "NES ROM Header & Image Converter",
+  "description": "Convert images to authentic NES 2bpp CHR graphics, configure iNES and NES 2.0 ROM headers, inspect bytefields, and export playable .nes ROMs or raw header binaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
